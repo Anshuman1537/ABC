@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 hello!
-=======
 hello!!!
 there
->>>>>>> fourth
+
